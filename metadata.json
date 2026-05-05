@@ -1,0 +1,8 @@
+{
+  "name": "studio-2712029041",
+  "description": "App imported from Firebase Studio",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
